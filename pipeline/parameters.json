@@ -1,0 +1,8 @@
+{
+  "Parameters": [
+    {
+      "ParameterKey": "TableName",
+      "ParameterValue": "media-counter-application"
+    }
+  ]
+}
